@@ -26,8 +26,7 @@ To use the password manager, follow these steps:
 - pyperclip
 
 ## Example
-
-https://github.com/requiredcrx/Password_manager/assets/91392775/7f9fcc39-0e87-4816-a6c5-9c29b4a135a2
+![Screen Recording 2023-07-06 at 03 53 17](https://github.com/requiredcrx/Password_manager/assets/91392775/77d6b770-7c87-441c-bb2b-0651b57a459a)
 
 
 ## Contributing
